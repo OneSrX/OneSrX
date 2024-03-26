@@ -28,7 +28,7 @@
 <div style="display: grid;
   grid-template-columns: repeat(auto-fit, minmax(min(20rem, 100%), 1fr));
   gap: 0.5rem;
-  max-width:800px;
+  max-width:100%;
   margin: 0 auto">
 <!-- GitHub Stats -->
 <picture>
@@ -45,14 +45,14 @@
 <!-- GitHub Streak -->
 <picture>
   <source
-    srcset="https://streak-stats.demolab.com?user=onesrx&theme=catppuccin-mocha&hide_border=true&mode=weekly&card_width=455&hide_longest_streak=true"
+    srcset="https://streak-stats.demolab.com?user=onesrx&theme=catppuccin-mocha&hide_border=true&mode=weekly&card_width=450&hide_longest_streak=true"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://streak-stats.demolab.com?user=onesrx&theme=catppuccin-latte&hide_border=true&mode=weekly&card_width=455&hide_longest_streak=true"
+    srcset="https://streak-stats.demolab.com?user=onesrx&theme=catppuccin-latte&hide_border=true&mode=weekly&card_width=450&hide_longest_streak=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://streak-stats.demolab.com?user=onesrx&hide_border=true&mode=weekly&card_width=455&hide_longest_streak=true" />
+  <img src="https://streak-stats.demolab.com?user=onesrx&hide_border=true&mode=weekly&card_width=450&hide_longest_streak=true" />
 </picture>
 </div>
 <!-- GitHub Graph -->
