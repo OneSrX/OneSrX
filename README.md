@@ -29,7 +29,7 @@
   grid-template-columns: repeat(auto-fit, minmax(20rem, 1fr));
   gap: 0.5rem;
   max-width: 100%;
-  margin: 0 auto">
+  margin: 0 auto;">
 <!-- GitHub Stats -->
 <picture style="max-width: 100%;">
   <source
@@ -55,7 +55,6 @@
   <img src="https://streak-stats.demolab.com?user=onesrx&hide_border=true&mode=weekly&card_width=450&hide_longest_streak=true" style="max-width: 100%;" />
 </picture>
 </div>
-
 <!-- GitHub Graph -->
 <picture>
   <source
