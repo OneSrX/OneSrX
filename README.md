@@ -24,9 +24,6 @@
 
 ### 📊 My GitHub Stats
 
-<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=onesrx&theme=catppuccin_mocha&hide_border=true&custom_title=OMAR's%20GitHub%20Stats&title_color=94e2d5&ring_color=94e2d5" />
-<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=onesrx&theme=catppuccin_mocha&hide_border=true&layout=compact&langs_count=8&card_width=320" />
-
 <div style="display: flex; flex-wrap: wrap;">
   <!-- GitHub Stats -->
   <div style="flex: 1; max-width: 50%;">
