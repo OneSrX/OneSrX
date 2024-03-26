@@ -32,30 +32,30 @@
 <!-- GitHub Stats -->
 <picture>
   <source
-    width=100%
+    max-width=100%
     srcset="https://github-readme-stats.vercel.app/api?username=onesrx&theme=catppuccin_mocha&hide_border=true&custom_title=OMAR's%20GitHub%20Stats&title_color=94e2d5&ring_color=94e2d5"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    width=100%
+    max-width=100%
     srcset="https://github-readme-stats.vercel.app/api?username=onesrx&theme=catppuccin_latte&hide_border=true&custom_title=OMAR's%20GitHub%20Stats"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img width=100% src="https://github-readme-stats.vercel.app/api?username=onesrx&show_icons=true" />
+  <img max-width=100% src="https://github-readme-stats.vercel.app/api?username=onesrx&show_icons=true" />
 </picture>
 <!-- GitHub Streak -->
 <picture>
   <source
-    width=100%
+    max-width=100%
     srcset="https://streak-stats.demolab.com?user=onesrx&theme=catppuccin-mocha&hide_border=true&mode=weekly&card_width=455&hide_longest_streak=true"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    width=100%
+    max-width=100%
     srcset="https://streak-stats.demolab.com?user=onesrx&theme=catppuccin-latte&hide_border=true&mode=weekly&card_width=455&hide_longest_streak=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img width=100% src="https://streak-stats.demolab.com?user=onesrx&hide_border=true&mode=weekly&card_width=455&hide_longest_streak=true" />
+  <img max-width=100% src="https://streak-stats.demolab.com?user=onesrx&hide_border=true&mode=weekly&card_width=455&hide_longest_streak=true" />
 </picture>
 </div>
 <!-- GitHub Graph -->
