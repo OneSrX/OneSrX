@@ -27,47 +27,43 @@
 
 <div style="display: grid;
   grid-template-columns: repeat(auto-fit, minmax(min(20rem, 100%), 1fr));
-  gap: 0.5rem;">
+  gap: 0.5rem;
+  max-width:800px;
+  margin: 0 auto">
 <!-- GitHub Stats -->
 <picture>
   <source
-    width=100%
     srcset="https://github-readme-stats.vercel.app/api?username=onesrx&theme=catppuccin_mocha&hide_border=true&custom_title=OMAR's%20GitHub%20Stats&title_color=94e2d5&ring_color=94e2d5"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    width=100%
     srcset="https://github-readme-stats.vercel.app/api?username=onesrx&theme=catppuccin_latte&hide_border=true&custom_title=OMAR's%20GitHub%20Stats"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img width=100% src="https://github-readme-stats.vercel.app/api?username=onesrx&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=onesrx&show_icons=true" />
 </picture>
 <!-- GitHub Streak -->
 <picture>
   <source
-    width=100%
     srcset="https://streak-stats.demolab.com?user=onesrx&theme=catppuccin-mocha&hide_border=true&mode=weekly&card_width=455&hide_longest_streak=true"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    width=100%
     srcset="https://streak-stats.demolab.com?user=onesrx&theme=catppuccin-latte&hide_border=true&mode=weekly&card_width=455&hide_longest_streak=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img width=100% src="https://streak-stats.demolab.com?user=onesrx&hide_border=true&mode=weekly&card_width=455&hide_longest_streak=true" />
+  <img src="https://streak-stats.demolab.com?user=onesrx&hide_border=true&mode=weekly&card_width=455&hide_longest_streak=true" />
 </picture>
 </div>
 <!-- GitHub Graph -->
 <picture>
   <source
-    width=100%
     srcset="https://github-readme-activity-graph.vercel.app/graph?username=onesrx&theme=material-palenight&radius=10&custom_title=OMAR's%20Activity%20Graph&bg_color=1e1e2e&hide_border=true&title_color=94e2d5&point=94e2d5&line=c6a2f1&area_color=cdd6f4"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    width=100%
     srcset="https://github-readme-activity-graph.vercel.app/graph?username=onesrx&theme=material-palenight&radius=10&custom_title=OMAR's%20Activity%20Graph&bg_color=eff1f5&hide_border=true&title_color=4c4f69&point=179299&line=8839ef&area_color=4c4f69"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img width=100% src="https://github-readme-activity-graph.vercel.app/graph?username=onesrx&theme=minimal&radius=10&custom_title=OMAR's%20Activity%20Graph&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=onesrx&theme=minimal&radius=10&custom_title=OMAR's%20Activity%20Graph&hide_border=true" />
 </picture>
