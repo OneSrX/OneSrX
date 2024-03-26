@@ -26,7 +26,7 @@
 ### 📊 My GitHub Stats
 
 <div style="display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(min(25rem, 100%), 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(min(20rem, 100%), 1fr));
   gap: 0.5rem;">
 <!-- GitHub Stats -->
 <picture>
