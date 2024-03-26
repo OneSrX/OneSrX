@@ -26,12 +26,12 @@
 ### 📊 My GitHub Stats
 
 <div style="display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(min(20rem, 100%), 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(20rem, 1fr));
   gap: 0.5rem;
-  max-width:100%;
+  max-width: 100%;
   margin: 0 auto">
 <!-- GitHub Stats -->
-<picture>
+<picture style="max-width: 100%;">
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=onesrx&theme=catppuccin_mocha&hide_border=true&custom_title=OMAR's%20GitHub%20Stats&title_color=94e2d5&ring_color=94e2d5"
     media="(prefers-color-scheme: dark)"
@@ -40,10 +40,10 @@
     srcset="https://github-readme-stats.vercel.app/api?username=onesrx&theme=catppuccin_latte&hide_border=true&custom_title=OMAR's%20GitHub%20Stats"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=onesrx&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=onesrx&show_icons=true" style="max-width: 100%;" />
 </picture>
 <!-- GitHub Streak -->
-<picture>
+<picture style="max-width: 100%;">
   <source
     srcset="https://streak-stats.demolab.com?user=onesrx&theme=catppuccin-mocha&hide_border=true&mode=weekly&card_width=450&hide_longest_streak=true"
     media="(prefers-color-scheme: dark)"
@@ -52,9 +52,10 @@
     srcset="https://streak-stats.demolab.com?user=onesrx&theme=catppuccin-latte&hide_border=true&mode=weekly&card_width=450&hide_longest_streak=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://streak-stats.demolab.com?user=onesrx&hide_border=true&mode=weekly&card_width=450&hide_longest_streak=true" />
+  <img src="https://streak-stats.demolab.com?user=onesrx&hide_border=true&mode=weekly&card_width=450&hide_longest_streak=true" style="max-width: 100%;" />
 </picture>
 </div>
+
 <!-- GitHub Graph -->
 <picture>
   <source
