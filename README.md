@@ -3,7 +3,7 @@
 **`An aspiring web developer :)`**
 
 - 🌍  I'm based in **Morocco**
-- 🧠  I'm learning front-end through **The Odin Project**
+- 🧠  I'm learning front-end through **[The Odin Project](https://www.theodinproject.com)**
 - ⚡  Fun fact: **I know how to center a div**
 
 ---
@@ -23,7 +23,7 @@
 
 #
 
-### 📊 Stats
+### 📊 My Stats
 
 <!-- GitHub Stats -->
 <picture>
