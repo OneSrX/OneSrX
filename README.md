@@ -28,3 +28,5 @@
 ![GitHub Streak](https://streak-stats.demolab.com?user=onesrx&theme=catppuccin-mocha&hide_border=true&mode=weekly&hide_longest_streak=true)
 <!-- GitHub Graph -->
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=onesrx&theme=material-palenight&radius=5&custom_title=OMAR's%20Activity%20Graph&bg_color=1e1e2e&hide_border=true&title_color=94e2d5&point=94e2d5&line=c6a2f1&area_color=cdd6f4)
+
+#
