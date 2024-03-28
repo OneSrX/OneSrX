@@ -19,46 +19,13 @@
 [<img align="left" alt="GitHub" width="30px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />](https://github.com/OneSrX#gh-light-mode-only)
 [<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />](https://www.linux.org/pages/download/)
 <br />
-<br />
-
 #
 
 ### 📊 My Stats
 
 <!-- GitHub Stats -->
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=onesrx&theme=catppuccin_mocha&hide_border=true&custom_title=OMAR's%20GitHub%20Stats&title_color=94e2d5&ring_color=94e2d5"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    max-width=100%
-    srcset="https://github-readme-stats.vercel.app/api?username=onesrx&theme=catppuccin_latte&hide_border=true&custom_title=OMAR's%20GitHub%20Stats"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=onesrx&show_icons=true" />
-</picture>
+![OMAR's GitHub Stats](https://github-readme-stats.vercel.app/api?username=onesrx&theme=catppuccin_mocha&hide_border=true&custom_title=OMAR's%20GitHub%20Stats&title_color=94e2d5&ring_color=94e2d5&hide=issues,stars)
 <!-- GitHub Streak -->
-<picture>
-  <source
-    srcset="https://streak-stats.demolab.com?user=onesrx&theme=catppuccin-mocha&hide_border=true&mode=weekly&hide_longest_streak=true"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://streak-stats.demolab.com?user=onesrx&theme=catppuccin-latte&hide_border=true&mode=weekly&hide_longest_streak=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://streak-stats.demolab.com?user=onesrx&hide_border=true&mode=weekly&hide_longest_streak=true" />
-</picture>
+![GitHub Streak](https://streak-stats.demolab.com?user=onesrx&theme=catppuccin-mocha&hide_border=true&mode=weekly&hide_longest_streak=true)
 <!-- GitHub Graph -->
-<picture>
-  <source
-    srcset="https://github-readme-activity-graph.vercel.app/graph?username=onesrx&theme=material-palenight&radius=10&custom_title=OMAR's%20Activity%20Graph&bg_color=1e1e2e&hide_border=true&title_color=94e2d5&point=94e2d5&line=c6a2f1&area_color=cdd6f4"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-activity-graph.vercel.app/graph?username=onesrx&theme=material-palenight&radius=10&custom_title=OMAR's%20Activity%20Graph&bg_color=eff1f5&hide_border=true&title_color=4c4f69&point=179299&line=8839ef&area_color=4c4f69"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=onesrx&theme=minimal&radius=10&custom_title=OMAR's%20Activity%20Graph&hide_border=true" />
-</picture>
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=onesrx&theme=material-palenight&radius=5&custom_title=OMAR's%20Activity%20Graph&bg_color=1e1e2e&hide_border=true&title_color=94e2d5&point=94e2d5&line=c6a2f1&area_color=cdd6f4)
