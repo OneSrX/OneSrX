@@ -21,11 +21,11 @@
 <br />
 #
 
-### 📊 My Stats
-
+### <details><summary>📊 My Stats</summary>
 <!-- GitHub Stats -->
-![OMAR's GitHub Stats](https://github-readme-stats.vercel.app/api?username=onesrx&theme=catppuccin_mocha&hide_border=true&custom_title=OMAR's%20GitHub%20Stats&title_color=94e2d5&ring_color=94e2d5&hide=issues,stars)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=onesrx&theme=catppuccin_mocha&hide_border=true&custom_title=OMAR's%20GitHub%20Stats&title_color=94e2d5&ring_color=94e2d5&hide=issues,stars)
 <!-- GitHub Streak -->
 ![GitHub Streak](https://streak-stats.demolab.com?user=onesrx&theme=catppuccin-mocha&hide_border=true&mode=weekly&hide_longest_streak=true)
 <!-- GitHub Graph -->
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=onesrx&theme=material-palenight&radius=5&custom_title=OMAR's%20Activity%20Graph&bg_color=1e1e2e&hide_border=true&title_color=94e2d5&point=94e2d5&line=c6a2f1&area_color=cdd6f4)
+</details>
