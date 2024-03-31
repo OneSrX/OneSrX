@@ -26,5 +26,3 @@
 
 [![OMAR's GitHub Stats-dark](https://github-readme-stats-lone-wolf-74.vercel.app/api?username=onesrx&theme=catppuccin_mocha&hide_border=true&custom_title=OMAR's%20GitHub%20Stats&show_icons=true&count_private=true)](https://github.com/OneSrX#gh-dark-mode-only)
 [![OMAR's GitHub Stats-light](https://github-readme-stats-lone-wolf-74.vercel.app/api?username=onesrx&theme=catppuccin_latte&hide_border=true&custom_title=OMAR's%20GitHub%20Stats&show_icons=true&count_private=true)](https://github.com/OneSrX#gh-light-mode-only)
-[![OMAR's GitHub Streak-dark](https://streak-stats.demolab.com?user=onesrx&theme=catppuccin-mocha&hide_border=true&mode=weekly&card_width=467)](https://github.com/OneSrX#gh-dark-mode-only)
-[![OMAR's GitHub Streak-light](https://streak-stats.demolab.com?user=onesrx&theme=catppuccin-latte&hide_border=true&mode=weekly&card_width=467)](https://github.com/OneSrX#gh-light-mode-only)
