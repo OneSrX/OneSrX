@@ -24,8 +24,8 @@
 
 ### ⚡ My Stats
 
-<p align="center" style="text-align: center">
-  <img alt="OMAR's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=onesrx&theme=catppuccin_mocha&hide_border=true&custom_title=OMAR's%20GitHub%20Stats&title_color=94e2d5&ring_color=94e2d5" width="45%">
-&nbsp; &nbsp; &nbsp;
-  <img alt="OMAR's GitHub Streak" src="https://streak-stats.demolab.com?user=onesrx&theme=catppuccin-mocha&hide_border=true&mode=weekly&hide_longest_streak=true" width="49.5%">
-</p>
+![OMAR's GitHub Stats-dark](https://github-readme-stats-lone-wolf-74.vercel.app/api?username=onesrx&theme=catppuccin_mocha&hide_border=true&custom_title=OMAR's%20GitHub%20Stats&title_color=94e2d5&ring_color=94e2d5&show_icons=true&count_private=true#gh-dark-mode-only)
+![OMAR's GitHub Stats-light](https://github-readme-stats-lone-wolf-74.vercel.app/api?username=onesrx&theme=catppuccin_latte&hide_border=true&custom_title=OMAR's%20GitHub%20Stats&icon_color=8839ef&show_icons=true&count_private=true#gh-light-mode-only)
+![OMAR's GitHub Streak-dark](https://streak-stats.demolab.com?user=onesrx&theme=catppuccin-mocha&hide_border=true&mode=weekly&hide_longest_streak=true&card_width=467#gh-dark-mode-only)
+![OMAR's GitHub Streak-light](https://streak-stats.demolab.com?user=onesrx&theme=catppuccin-latte&hide_border=true&mode=weekly&hide_longest_streak=true&card_width=467#gh-light-mode-only)
+
