@@ -23,7 +23,6 @@
 #
 
 <details><summary>⚡ My Stats</summary>
-&nbsp;
   
 ‎
 [![OMAR's GitHub Stats-dark](https://github-readme-stats-seven-jade-26.vercel.app/api?username=onesrx&theme=catppuccin_mocha&hide_border=true&custom_title=OMAR's%20GitHub%20Stats&show_icons=true&count_private=true)](https://github.com/OneSrX?tab=repositories#gh-dark-mode-only)
