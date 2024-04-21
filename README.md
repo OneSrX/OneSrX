@@ -27,6 +27,8 @@
 
   [<img align="left" alt="OneSrX's Github Stats" src="https://github-readme-stats-seven-jade-26.vercel.app/api?username=onesrx&theme=catppuccin_mocha&custom_title=OMAR's%20GitHub%20Stats&hide_border=true&show_icons=true&count_private=true" />](https://github.com/OneSrX?tab=repositories#gh-dark-mode-only)
   [<img align="left" alt="OneSrX's Github Stats" src="https://github-readme-stats-seven-jade-26.vercel.app/api?username=onesrx&theme=catppuccin_latte&custom_title=OMAR's%20GitHub%20Stats&hide_border=true&show_icons=true&count_private=true" />](https://github.com/OneSrX?tab=repositories#gh-light-mode-only)
+  [<img align="left" alt="OneSrX's Github Streak" src="https://streak-stats.demolab.com?user=onesrx&theme=catppuccin-mocha&hide_border=true&mode=weekly&hide_longest_streak=true" />](https://github.com/OneSrX?tab=repositories#gh-dark-mode-only)
+  [<img align="left" alt="OneSrX's Github Streak" src="https://streak-stats.demolab.com?user=onesrx&theme=catppuccin-latte&hide_border=true&mode=weekly&hide_longest_streak=true" />](https://github.com/OneSrX?tab=repositories#gh-light-mode-only)
 
 </details>
 
