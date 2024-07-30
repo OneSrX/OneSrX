@@ -25,8 +25,8 @@
 <details>
   <summary>:zap: Github Stats</summary>
 
-  [<img align="left" alt="OneSrX's Github Stats" src="https://github-readme-stats-onesrx.vercel.app/api?username=onesrx&theme=catppuccin_mocha&custom_title=OMAR's%20GitHub%20Stats&hide_border=true&show_icons=true&count_private=true" />](https://github.com/OneSrX?tab=repositories#gh-dark-mode-only)
-  [<img align="left" alt="OneSrX's Github Stats" src="https://github-readme-stats-onesrx.vercel.app/api?username=onesrx&theme=catppuccin_latte&custom_title=OMAR's%20GitHub%20Stats&hide_border=true&show_icons=true&count_private=true" />](https://github.com/OneSrX?tab=repositories#gh-light-mode-only)
+  [<img align="left" alt="OneSrX's Github Stats" src="https://github-readme-stats-onesrx.vercel.app/api?username=onesrx&bg_color=1e1e2e&text_color=cdd6f4&icon_color=f5e0dc&title_color=94e2d5&ring_color=cba6f7&custom_title=OMAR's%20GitHub%20Stats&hide_border=true&show_icons=true&count_private=true" />](https://github.com/OneSrX?tab=repositories#gh-dark-mode-only)
+  [<img align="left" alt="OneSrX's Github Stats" src="https://github-readme-stats-onesrx.vercel.app/api?username=onesrx&bg_color=eff1f5&text_color=4c4f69&icon_color=dc8a78&title_color=179299&ring_color=8839ef&custom_title=OMAR's%20GitHub%20Stats&hide_border=true&show_icons=true&count_private=true" />](https://github.com/OneSrX?tab=repositories#gh-light-mode-only)
   
 </details>
 
