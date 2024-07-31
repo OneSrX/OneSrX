@@ -29,24 +29,10 @@
 
 ---
 
-### 🛠️ Languages and Tools
+### ⚙️ Tech Stack
 
-<div>
-   <!-- OS -->
-  <img style="max-width: 100%" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-  
-  <!-- Languages & Markup -->
-  <img style="max-width: 100%" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
-  <img style="max-width: 100%" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
-  <img style="max-width: 100%" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
-  <img style="max-width: 100%" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
-  <img style="max-width: 100%" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-
-  <!-- Tools & Platforms -->
-  <img style="max-width: 100%" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img style="max-width: 100%" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img style="max-width: 100%" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="Visual Studio Code"/>
-</div>
+[![Tech Stack](https://skillicons.dev/icons?i=html,css,javascript,tailwind,linux,git,github,vscode&perline=4&theme=dark)](https://github.com/OneSrX?tab=repositories#gh-dark-mode-only)
+[![Tech Stack](https://skillicons.dev/icons?i=html,css,javascript,tailwind,linux,git,github,vscode&perline=4&theme=light)](https://github.com/OneSrX?tab=repositories#gh-light-mode-only)
 
 #
 
