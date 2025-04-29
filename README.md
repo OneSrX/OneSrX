@@ -39,12 +39,12 @@
 <details>
   <summary>📊 Github Stats</summary>
   
-  [<img align="center" alt="OneSrX's Github Stats" src="https://github-readme-stats-onesrx.vercel.app/api?username=onesrx&theme=catppuccin_mocha&custom_title=OMAR%27s%20GitHub%20Stats&hide_border=true&show_icons=true&count_private=true" />](https://github.com/OneSrX?tab=repositories#gh-dark-mode-only)
+  [<img align="center" alt="OneSrX's Github Stats" src="https://github-readme-stats-onesrx.vercel.app/api?username=onesrx&theme=catppuccin_mocha&icon_color=89b4fa&title_color=cba6f7&ring_color=94e2d5&custom_title=GitHub%20Stats&hide_border=true&show_icons=true&count_private=true" />](https://github.com/OneSrX?tab=repositories#gh-dark-mode-only)
   
-  [<img align="center" alt="OneSrX's GitHub Streak" src="https://github-readme-streak-stats-onesrx.vercel.app/?user=OneSrX&theme=catppuccin-mocha&mode=weekly&hide_longest_streak=true&hide_border=true" />](https://github.com/OneSrX?tab=repositories#gh-dark-mode-only)
+  [<img align="center" alt="OneSrX's GitHub Streak" src="https://github-readme-streak-stats-onesrx.vercel.app/?user=OneSrX&theme=catppuccin-mocha&mode=weekly&hide_longest_streak=true&hide_border=true&ring=94e2d5&stroke=89b4fa&fire=94e2d5&currStreakLabel=cba6f7&sideLabels=bac2de&dates=7f849c" />](https://github.com/OneSrX?tab=repositories#gh-dark-mode-only)
  
-  [<img align="center" alt="OneSrX's Github Stats" src="https://github-readme-stats-onesrx.vercel.app/api?username=onesrx&theme=catppuccin_latte&custom_title=OMAR%27s%20GitHub%20Stats&hide_border=false&show_icons=true&count_private=true" />](https://github.com/OneSrX?tab=repositories#gh-light-mode-only)
+  [<img align="center" alt="OneSrX's Github Stats" src="https://github-readme-stats-onesrx.vercel.app/api?username=onesrx&theme=catppuccin_latte&icon_color=1e66f5&title_color=8839ef&ring_color=179299&custom_title=GitHub%20Stats&hide_border=false&show_icons=true&count_private=true" />](https://github.com/OneSrX?tab=repositories#gh-light-mode-only)
   
-  [<img align="center" alt="OneSrX's GitHub Streak" src="https://github-readme-streak-stats-onesrx.vercel.app/?user=OneSrX&theme=catppuccin-latte&mode=weekly&hide_longest_streak=true&hide_border=false" />](https://github.com/OneSrX?tab=repositories#gh-light-mode-only)
+  [<img align="center" alt="OneSrX's GitHub Streak" src="https://github-readme-streak-stats-onesrx.vercel.app/?user=OneSrX&theme=catppuccin-latte&mode=weekly&hide_longest_streak=true&hide_border=false&ring=179299&stroke=1e66f5&fire=179299&currStreakNum=8839ef&currStreakLabel=8839ef&sideLabels=5c5f77&dates=6c6f85" />](https://github.com/OneSrX?tab=repositories#gh-light-mode-only)
 
 </details>
